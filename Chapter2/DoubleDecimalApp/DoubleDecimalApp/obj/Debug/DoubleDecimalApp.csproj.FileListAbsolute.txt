@@ -1,0 +1,6 @@
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\DoubleDecimalApp\DoubleDecimalApp\bin\Debug\DoubleDecimalApp.exe.config
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\DoubleDecimalApp\DoubleDecimalApp\bin\Debug\DoubleDecimalApp.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\DoubleDecimalApp\DoubleDecimalApp\bin\Debug\DoubleDecimalApp.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\DoubleDecimalApp\DoubleDecimalApp\obj\Debug\DoubleDecimalApp.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\DoubleDecimalApp\DoubleDecimalApp\obj\Debug\DoubleDecimalApp.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\DoubleDecimalApp\DoubleDecimalApp\obj\Debug\DoubleDecimalApp.pdb

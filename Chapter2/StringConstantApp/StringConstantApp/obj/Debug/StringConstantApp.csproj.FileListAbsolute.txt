@@ -1,0 +1,6 @@
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\StringConstantApp\StringConstantApp\bin\Debug\StringConstantApp.exe.config
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\StringConstantApp\StringConstantApp\bin\Debug\StringConstantApp.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\StringConstantApp\StringConstantApp\bin\Debug\StringConstantApp.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\StringConstantApp\StringConstantApp\obj\Debug\StringConstantApp.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\StringConstantApp\StringConstantApp\obj\Debug\StringConstantApp.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\StringConstantApp\StringConstantApp\obj\Debug\StringConstantApp.pdb

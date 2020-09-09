@@ -1,0 +1,7 @@
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\identifierApp\identifierApp\bin\Debug\identifierApp.exe.config
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\identifierApp\identifierApp\bin\Debug\identifierApp.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\identifierApp\identifierApp\bin\Debug\identifierApp.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\identifierApp\identifierApp\obj\Debug\identifierApp.csprojAssemblyReference.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\identifierApp\identifierApp\obj\Debug\identifierApp.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\identifierApp\identifierApp\obj\Debug\identifierApp.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\identifierApp\identifierApp\obj\Debug\identifierApp.pdb
