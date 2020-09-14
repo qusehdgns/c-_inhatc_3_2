@@ -1,0 +1,6 @@
+C:\Users\quseh\source\repos\CH02-23\CH02-23\bin\Debug\CH02-23.exe.config
+C:\Users\quseh\source\repos\CH02-23\CH02-23\bin\Debug\CH02-23.exe
+C:\Users\quseh\source\repos\CH02-23\CH02-23\bin\Debug\CH02-23.pdb
+C:\Users\quseh\source\repos\CH02-23\CH02-23\obj\Debug\CH02-23.csproj.CoreCompileInputs.cache
+C:\Users\quseh\source\repos\CH02-23\CH02-23\obj\Debug\CH02-23.exe
+C:\Users\quseh\source\repos\CH02-23\CH02-23\obj\Debug\CH02-23.pdb

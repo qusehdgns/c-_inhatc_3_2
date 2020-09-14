@@ -1,0 +1,6 @@
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\CH02-21\CH02-21\bin\Debug\CH02-21.exe.config
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\CH02-21\CH02-21\bin\Debug\CH02-21.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\CH02-21\CH02-21\bin\Debug\CH02-21.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\CH02-21\CH02-21\obj\Debug\CH02-21.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\CH02-21\CH02-21\obj\Debug\CH02-21.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\CH02-21\CH02-21\obj\Debug\CH02-21.pdb
