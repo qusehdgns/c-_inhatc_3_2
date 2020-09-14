@@ -1,0 +1,6 @@
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\IsAsOperator\IsAsOperator\bin\Debug\IsAsOperator.exe.config
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\IsAsOperator\IsAsOperator\bin\Debug\IsAsOperator.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\IsAsOperator\IsAsOperator\bin\Debug\IsAsOperator.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\IsAsOperator\IsAsOperator\obj\Debug\IsAsOperator.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\IsAsOperator\IsAsOperator\obj\Debug\IsAsOperator.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\IsAsOperator\IsAsOperator\obj\Debug\IsAsOperator.pdb

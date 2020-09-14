@@ -1,0 +1,7 @@
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\MazValue\MazValue\bin\Debug\MazValue.exe.config
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\MazValue\MazValue\bin\Debug\MazValue.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\MazValue\MazValue\bin\Debug\MazValue.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\MazValue\MazValue\obj\Debug\MazValue.csprojAssemblyReference.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\MazValue\MazValue\obj\Debug\MazValue.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\MazValue\MazValue\obj\Debug\MazValue.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\MazValue\MazValue\obj\Debug\MazValue.pdb

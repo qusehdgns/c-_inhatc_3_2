@@ -1,0 +1,6 @@
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\LosePrecision\LosePrecision\bin\Debug\LosePrecision.exe.config
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\LosePrecision\LosePrecision\bin\Debug\LosePrecision.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\LosePrecision\LosePrecision\bin\Debug\LosePrecision.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\LosePrecision\LosePrecision\obj\Debug\LosePrecision.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\LosePrecision\LosePrecision\obj\Debug\LosePrecision.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter2\LosePrecision\LosePrecision\obj\Debug\LosePrecision.pdb
