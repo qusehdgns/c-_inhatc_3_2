@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpSt", "JumpSt\JumpSt.csproj", "{C217A2F6-1920-40B6-B635-DF687F6D07D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C217A2F6-1920-40B6-B635-DF687F6D07D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C217A2F6-1920-40B6-B635-DF687F6D07D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C217A2F6-1920-40B6-B635-DF687F6D07D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C217A2F6-1920-40B6-B635-DF687F6D07D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4340F14E-5BC3-4C49-B7BA-F8458A50DD4C}
+	EndGlobalSection
+EndGlobal

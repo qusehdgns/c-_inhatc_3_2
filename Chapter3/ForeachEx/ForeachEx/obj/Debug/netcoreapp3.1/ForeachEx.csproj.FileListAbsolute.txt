@@ -1,0 +1,12 @@
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\ForeachEx\ForeachEx\bin\Debug\netcoreapp3.1\ForeachEx.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\ForeachEx\ForeachEx\bin\Debug\netcoreapp3.1\ForeachEx.deps.json
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\ForeachEx\ForeachEx\bin\Debug\netcoreapp3.1\ForeachEx.runtimeconfig.json
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\ForeachEx\ForeachEx\bin\Debug\netcoreapp3.1\ForeachEx.runtimeconfig.dev.json
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\ForeachEx\ForeachEx\bin\Debug\netcoreapp3.1\ForeachEx.dll
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\ForeachEx\ForeachEx\bin\Debug\netcoreapp3.1\ForeachEx.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\ForeachEx\ForeachEx\obj\Debug\netcoreapp3.1\ForeachEx.AssemblyInfoInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\ForeachEx\ForeachEx\obj\Debug\netcoreapp3.1\ForeachEx.AssemblyInfo.cs
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\ForeachEx\ForeachEx\obj\Debug\netcoreapp3.1\ForeachEx.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\ForeachEx\ForeachEx\obj\Debug\netcoreapp3.1\ForeachEx.dll
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\ForeachEx\ForeachEx\obj\Debug\netcoreapp3.1\ForeachEx.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\ForeachEx\ForeachEx\obj\Debug\netcoreapp3.1\ForeachEx.genruntimeconfig.cache

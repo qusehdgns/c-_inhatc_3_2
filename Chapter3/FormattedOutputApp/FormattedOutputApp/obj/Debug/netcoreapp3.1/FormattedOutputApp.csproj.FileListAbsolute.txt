@@ -1,0 +1,12 @@
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\FormattedOutputApp\FormattedOutputApp\bin\Debug\netcoreapp3.1\FormattedOutputApp.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\FormattedOutputApp\FormattedOutputApp\bin\Debug\netcoreapp3.1\FormattedOutputApp.deps.json
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\FormattedOutputApp\FormattedOutputApp\bin\Debug\netcoreapp3.1\FormattedOutputApp.runtimeconfig.json
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\FormattedOutputApp\FormattedOutputApp\bin\Debug\netcoreapp3.1\FormattedOutputApp.runtimeconfig.dev.json
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\FormattedOutputApp\FormattedOutputApp\bin\Debug\netcoreapp3.1\FormattedOutputApp.dll
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\FormattedOutputApp\FormattedOutputApp\bin\Debug\netcoreapp3.1\FormattedOutputApp.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\FormattedOutputApp\FormattedOutputApp\obj\Debug\netcoreapp3.1\FormattedOutputApp.AssemblyInfoInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\FormattedOutputApp\FormattedOutputApp\obj\Debug\netcoreapp3.1\FormattedOutputApp.AssemblyInfo.cs
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\FormattedOutputApp\FormattedOutputApp\obj\Debug\netcoreapp3.1\FormattedOutputApp.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\FormattedOutputApp\FormattedOutputApp\obj\Debug\netcoreapp3.1\FormattedOutputApp.dll
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\FormattedOutputApp\FormattedOutputApp\obj\Debug\netcoreapp3.1\FormattedOutputApp.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\FormattedOutputApp\FormattedOutputApp\obj\Debug\netcoreapp3.1\FormattedOutputApp.genruntimeconfig.cache

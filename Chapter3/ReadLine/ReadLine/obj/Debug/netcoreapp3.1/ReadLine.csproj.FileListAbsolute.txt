@@ -1,0 +1,12 @@
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\ReadLine\ReadLine\obj\Debug\netcoreapp3.1\ReadLine.AssemblyInfoInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\ReadLine\ReadLine\obj\Debug\netcoreapp3.1\ReadLine.AssemblyInfo.cs
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\ReadLine\ReadLine\obj\Debug\netcoreapp3.1\ReadLine.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\ReadLine\ReadLine\bin\Debug\netcoreapp3.1\ReadLine.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\ReadLine\ReadLine\bin\Debug\netcoreapp3.1\ReadLine.deps.json
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\ReadLine\ReadLine\bin\Debug\netcoreapp3.1\ReadLine.runtimeconfig.json
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\ReadLine\ReadLine\bin\Debug\netcoreapp3.1\ReadLine.runtimeconfig.dev.json
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\ReadLine\ReadLine\bin\Debug\netcoreapp3.1\ReadLine.dll
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\ReadLine\ReadLine\bin\Debug\netcoreapp3.1\ReadLine.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\ReadLine\ReadLine\obj\Debug\netcoreapp3.1\ReadLine.dll
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\ReadLine\ReadLine\obj\Debug\netcoreapp3.1\ReadLine.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\ReadLine\ReadLine\obj\Debug\netcoreapp3.1\ReadLine.genruntimeconfig.cache

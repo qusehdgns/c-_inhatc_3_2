@@ -1,0 +1,12 @@
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\PrintMatrix\PrintMatrix\bin\Debug\netcoreapp3.1\PrintMatrix.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\PrintMatrix\PrintMatrix\bin\Debug\netcoreapp3.1\PrintMatrix.deps.json
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\PrintMatrix\PrintMatrix\bin\Debug\netcoreapp3.1\PrintMatrix.runtimeconfig.json
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\PrintMatrix\PrintMatrix\bin\Debug\netcoreapp3.1\PrintMatrix.runtimeconfig.dev.json
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\PrintMatrix\PrintMatrix\bin\Debug\netcoreapp3.1\PrintMatrix.dll
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\PrintMatrix\PrintMatrix\bin\Debug\netcoreapp3.1\PrintMatrix.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\PrintMatrix\PrintMatrix\obj\Debug\netcoreapp3.1\PrintMatrix.AssemblyInfoInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\PrintMatrix\PrintMatrix\obj\Debug\netcoreapp3.1\PrintMatrix.AssemblyInfo.cs
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\PrintMatrix\PrintMatrix\obj\Debug\netcoreapp3.1\PrintMatrix.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\PrintMatrix\PrintMatrix\obj\Debug\netcoreapp3.1\PrintMatrix.dll
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\PrintMatrix\PrintMatrix\obj\Debug\netcoreapp3.1\PrintMatrix.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\PrintMatrix\PrintMatrix\obj\Debug\netcoreapp3.1\PrintMatrix.genruntimeconfig.cache

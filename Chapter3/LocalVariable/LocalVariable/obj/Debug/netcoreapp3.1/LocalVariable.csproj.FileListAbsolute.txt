@@ -1,0 +1,13 @@
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\LocalVariable\LocalVariable\bin\Debug\netcoreapp3.1\LocalVariable.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\LocalVariable\LocalVariable\bin\Debug\netcoreapp3.1\LocalVariable.deps.json
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\LocalVariable\LocalVariable\bin\Debug\netcoreapp3.1\LocalVariable.runtimeconfig.json
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\LocalVariable\LocalVariable\bin\Debug\netcoreapp3.1\LocalVariable.runtimeconfig.dev.json
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\LocalVariable\LocalVariable\bin\Debug\netcoreapp3.1\LocalVariable.dll
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\LocalVariable\LocalVariable\bin\Debug\netcoreapp3.1\LocalVariable.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\LocalVariable\LocalVariable\obj\Debug\netcoreapp3.1\LocalVariable.csprojAssemblyReference.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\LocalVariable\LocalVariable\obj\Debug\netcoreapp3.1\LocalVariable.AssemblyInfoInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\LocalVariable\LocalVariable\obj\Debug\netcoreapp3.1\LocalVariable.AssemblyInfo.cs
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\LocalVariable\LocalVariable\obj\Debug\netcoreapp3.1\LocalVariable.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\LocalVariable\LocalVariable\obj\Debug\netcoreapp3.1\LocalVariable.dll
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\LocalVariable\LocalVariable\obj\Debug\netcoreapp3.1\LocalVariable.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\LocalVariable\LocalVariable\obj\Debug\netcoreapp3.1\LocalVariable.genruntimeconfig.cache

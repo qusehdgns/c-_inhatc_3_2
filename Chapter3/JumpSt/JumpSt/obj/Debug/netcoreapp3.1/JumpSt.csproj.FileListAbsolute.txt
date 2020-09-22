@@ -1,0 +1,12 @@
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\JumpSt\JumpSt\bin\Debug\netcoreapp3.1\JumpSt.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\JumpSt\JumpSt\bin\Debug\netcoreapp3.1\JumpSt.deps.json
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\JumpSt\JumpSt\bin\Debug\netcoreapp3.1\JumpSt.runtimeconfig.json
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\JumpSt\JumpSt\bin\Debug\netcoreapp3.1\JumpSt.runtimeconfig.dev.json
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\JumpSt\JumpSt\bin\Debug\netcoreapp3.1\JumpSt.dll
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\JumpSt\JumpSt\bin\Debug\netcoreapp3.1\JumpSt.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\JumpSt\JumpSt\obj\Debug\netcoreapp3.1\JumpSt.AssemblyInfoInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\JumpSt\JumpSt\obj\Debug\netcoreapp3.1\JumpSt.AssemblyInfo.cs
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\JumpSt\JumpSt\obj\Debug\netcoreapp3.1\JumpSt.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\JumpSt\JumpSt\obj\Debug\netcoreapp3.1\JumpSt.dll
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\JumpSt\JumpSt\obj\Debug\netcoreapp3.1\JumpSt.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\JumpSt\JumpSt\obj\Debug\netcoreapp3.1\JumpSt.genruntimeconfig.cache
