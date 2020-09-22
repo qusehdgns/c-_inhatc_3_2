@@ -1,1 +1,7 @@
 C:\Users\quseh\Desktop\workspace\C#\Chapter3\CH03-19\CH03-19\obj\Debug\CH03-19.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\CH03-19\CH03-19\bin\Debug\CH03-19.exe.config
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\CH03-19\CH03-19\bin\Debug\CH03-19.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\CH03-19\CH03-19\bin\Debug\CH03-19.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\CH03-19\CH03-19\obj\Debug\CH03-19.csprojAssemblyReference.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\CH03-19\CH03-19\obj\Debug\CH03-19.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter3\CH03-19\CH03-19\obj\Debug\CH03-19.pdb

@@ -15,16 +15,16 @@ namespace CH03_19
             try
             {
                 Console.WriteLine("Start of try statement");
-                i = max + i;    // default: don't check Overflow.
+                i = max + 1;    // default: don't check Overflow.
                 Console.WriteLine("After default overflow");
                 unchecked
                 {
-                    i = max + i; // don't check Overflow intensionally.
+                    i = max + 1; // don't check Overflow intensionally.
                 }
                 Console.WriteLine("After unchecked statement");
                 checked
                 {
-                    i = max + i; // check Overflow
+                    i = max + 1; // check Overflow
                 }
                 Console.WriteLine("After checked statement");
             }
