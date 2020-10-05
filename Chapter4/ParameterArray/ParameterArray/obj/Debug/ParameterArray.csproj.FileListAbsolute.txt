@@ -1,0 +1,6 @@
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\ParameterArray\ParameterArray\bin\Debug\ParameterArray.exe.config
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\ParameterArray\ParameterArray\bin\Debug\ParameterArray.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\ParameterArray\ParameterArray\bin\Debug\ParameterArray.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\ParameterArray\ParameterArray\obj\Debug\ParameterArray.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\ParameterArray\ParameterArray\obj\Debug\ParameterArray.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\ParameterArray\ParameterArray\obj\Debug\ParameterArray.pdb

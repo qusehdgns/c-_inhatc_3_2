@@ -1,0 +1,6 @@
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\StaticVsInstance\StaticVsInstance\bin\Debug\StaticVsInstance.exe.config
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\StaticVsInstance\StaticVsInstance\bin\Debug\StaticVsInstance.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\StaticVsInstance\StaticVsInstance\bin\Debug\StaticVsInstance.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\StaticVsInstance\StaticVsInstance\obj\Debug\StaticVsInstance.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\StaticVsInstance\StaticVsInstance\obj\Debug\StaticVsInstance.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\StaticVsInstance\StaticVsInstance\obj\Debug\StaticVsInstance.pdb

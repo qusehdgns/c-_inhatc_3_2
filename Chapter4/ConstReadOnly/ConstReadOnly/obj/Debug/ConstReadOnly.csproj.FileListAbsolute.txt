@@ -1,0 +1,6 @@
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\ConstReadOnly\ConstReadOnly\bin\Debug\ConstReadOnly.exe.config
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\ConstReadOnly\ConstReadOnly\bin\Debug\ConstReadOnly.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\ConstReadOnly\ConstReadOnly\bin\Debug\ConstReadOnly.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\ConstReadOnly\ConstReadOnly\obj\Debug\ConstReadOnly.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\ConstReadOnly\ConstReadOnly\obj\Debug\ConstReadOnly.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\ConstReadOnly\ConstReadOnly\obj\Debug\ConstReadOnly.pdb

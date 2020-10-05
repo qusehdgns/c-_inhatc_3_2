@@ -1,0 +1,6 @@
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\CallByReferenceApp\CallByReferenceApp\bin\Debug\CallByReferenceApp.exe.config
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\CallByReferenceApp\CallByReferenceApp\bin\Debug\CallByReferenceApp.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\CallByReferenceApp\CallByReferenceApp\bin\Debug\CallByReferenceApp.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\CallByReferenceApp\CallByReferenceApp\obj\Debug\CallByReferenceApp.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\CallByReferenceApp\CallByReferenceApp\obj\Debug\CallByReferenceApp.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\CallByReferenceApp\CallByReferenceApp\obj\Debug\CallByReferenceApp.pdb
