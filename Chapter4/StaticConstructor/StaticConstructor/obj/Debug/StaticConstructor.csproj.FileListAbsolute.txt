@@ -1,0 +1,6 @@
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\StaticConstructor\StaticConstructor\bin\Debug\StaticConstructor.exe.config
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\StaticConstructor\StaticConstructor\bin\Debug\StaticConstructor.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\StaticConstructor\StaticConstructor\bin\Debug\StaticConstructor.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\StaticConstructor\StaticConstructor\obj\Debug\StaticConstructor.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\StaticConstructor\StaticConstructor\obj\Debug\StaticConstructor.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\StaticConstructor\StaticConstructor\obj\Debug\StaticConstructor.pdb

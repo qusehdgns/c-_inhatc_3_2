@@ -1,0 +1,6 @@
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\Property\Property\bin\Debug\Property.exe.config
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\Property\Property\bin\Debug\Property.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\Property\Property\bin\Debug\Property.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\Property\Property\obj\Debug\Property.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\Property\Property\obj\Debug\Property.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\Property\Property\obj\Debug\Property.pdb

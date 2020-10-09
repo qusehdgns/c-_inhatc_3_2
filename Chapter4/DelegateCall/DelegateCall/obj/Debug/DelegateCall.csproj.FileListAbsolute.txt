@@ -1,0 +1,6 @@
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\DelegateCall\DelegateCall\bin\Debug\DelegateCall.exe.config
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\DelegateCall\DelegateCall\bin\Debug\DelegateCall.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\DelegateCall\DelegateCall\bin\Debug\DelegateCall.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\DelegateCall\DelegateCall\obj\Debug\DelegateCall.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\DelegateCall\DelegateCall\obj\Debug\DelegateCall.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter4\DelegateCall\DelegateCall\obj\Debug\DelegateCall.pdb
