@@ -1,0 +1,6 @@
+C:\Users\quseh\Desktop\workspace\C#\Chapter5\Diamond\Diamond\bin\Debug\Diamond.exe.config
+C:\Users\quseh\Desktop\workspace\C#\Chapter5\Diamond\Diamond\bin\Debug\Diamond.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter5\Diamond\Diamond\bin\Debug\Diamond.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter5\Diamond\Diamond\obj\Debug\Diamond.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter5\Diamond\Diamond\obj\Debug\Diamond.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter5\Diamond\Diamond\obj\Debug\Diamond.pdb

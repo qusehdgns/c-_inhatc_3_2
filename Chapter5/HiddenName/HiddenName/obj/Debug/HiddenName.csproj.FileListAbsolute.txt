@@ -1,0 +1,6 @@
+C:\Users\quseh\Desktop\workspace\C#\Chapter5\HiddenName\HiddenName\bin\Debug\HiddenName.exe.config
+C:\Users\quseh\Desktop\workspace\C#\Chapter5\HiddenName\HiddenName\bin\Debug\HiddenName.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter5\HiddenName\HiddenName\bin\Debug\HiddenName.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter5\HiddenName\HiddenName\obj\Debug\HiddenName.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter5\HiddenName\HiddenName\obj\Debug\HiddenName.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter5\HiddenName\HiddenName\obj\Debug\HiddenName.pdb

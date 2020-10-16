@@ -1,0 +1,7 @@
+C:\Users\quseh\Desktop\workspace\C#\Chapter5\AbstracatClass\AbstracatClass\bin\Debug\AbstracatClass.exe.config
+C:\Users\quseh\Desktop\workspace\C#\Chapter5\AbstracatClass\AbstracatClass\bin\Debug\AbstracatClass.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter5\AbstracatClass\AbstracatClass\bin\Debug\AbstracatClass.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter5\AbstracatClass\AbstracatClass\obj\Debug\AbstracatClass.csprojAssemblyReference.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter5\AbstracatClass\AbstracatClass\obj\Debug\AbstracatClass.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter5\AbstracatClass\AbstracatClass\obj\Debug\AbstracatClass.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter5\AbstracatClass\AbstracatClass\obj\Debug\AbstracatClass.pdb
