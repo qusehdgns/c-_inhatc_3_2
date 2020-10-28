@@ -1,0 +1,10 @@
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\FirstForm\FirstForm\bin\Debug\FirstForm.exe.config
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\FirstForm\FirstForm\bin\Debug\FirstForm.exe
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\FirstForm\FirstForm\bin\Debug\FirstForm.pdb
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\FirstForm\FirstForm\obj\Debug\FirstForm.csprojAssemblyReference.cache
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\FirstForm\FirstForm\obj\Debug\FirstForm.Form1.resources
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\FirstForm\FirstForm\obj\Debug\FirstForm.Properties.Resources.resources
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\FirstForm\FirstForm\obj\Debug\FirstForm.csproj.GenerateResource.cache
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\FirstForm\FirstForm\obj\Debug\FirstForm.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\FirstForm\FirstForm\obj\Debug\FirstForm.exe
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\FirstForm\FirstForm\obj\Debug\FirstForm.pdb
