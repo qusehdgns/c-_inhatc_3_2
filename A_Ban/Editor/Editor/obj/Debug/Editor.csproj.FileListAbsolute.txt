@@ -1,0 +1,11 @@
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\Editor\Editor\bin\Debug\Editor.exe.config
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\Editor\Editor\bin\Debug\Editor.exe
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\Editor\Editor\bin\Debug\Editor.pdb
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\Editor\Editor\obj\Debug\Editor.csprojAssemblyReference.cache
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\Editor\Editor\obj\Debug\Editor.Form1.resources
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\Editor\Editor\obj\Debug\Editor.Properties.Resources.resources
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\Editor\Editor\obj\Debug\Editor.csproj.GenerateResource.cache
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\Editor\Editor\obj\Debug\Editor.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\Editor\Editor\obj\Debug\Editor.exe
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\Editor\Editor\obj\Debug\Editor.pdb
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\Editor\Editor\obj\Debug\Editor.Form2.resources
