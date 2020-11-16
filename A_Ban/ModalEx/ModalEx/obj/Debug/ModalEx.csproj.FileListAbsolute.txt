@@ -1,0 +1,11 @@
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\ModalEx\ModalEx\bin\Debug\ModalEx.exe.config
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\ModalEx\ModalEx\bin\Debug\ModalEx.exe
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\ModalEx\ModalEx\bin\Debug\ModalEx.pdb
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\ModalEx\ModalEx\obj\Debug\ModalEx.csprojAssemblyReference.cache
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\ModalEx\ModalEx\obj\Debug\ModalEx.Form1.resources
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\ModalEx\ModalEx\obj\Debug\ModalEx.Form2.resources
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\ModalEx\ModalEx\obj\Debug\ModalEx.Properties.Resources.resources
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\ModalEx\ModalEx\obj\Debug\ModalEx.csproj.GenerateResource.cache
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\ModalEx\ModalEx\obj\Debug\ModalEx.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\ModalEx\ModalEx\obj\Debug\ModalEx.exe
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\ModalEx\ModalEx\obj\Debug\ModalEx.pdb

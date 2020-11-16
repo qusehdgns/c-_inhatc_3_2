@@ -1,0 +1,10 @@
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\DialogEx\DialogEx\bin\Debug\DialogEx.exe.config
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\DialogEx\DialogEx\bin\Debug\DialogEx.exe
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\DialogEx\DialogEx\bin\Debug\DialogEx.pdb
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\DialogEx\DialogEx\obj\Debug\DialogEx.csprojAssemblyReference.cache
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\DialogEx\DialogEx\obj\Debug\DialogEx.Form1.resources
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\DialogEx\DialogEx\obj\Debug\DialogEx.Properties.Resources.resources
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\DialogEx\DialogEx\obj\Debug\DialogEx.csproj.GenerateResource.cache
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\DialogEx\DialogEx\obj\Debug\DialogEx.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\DialogEx\DialogEx\obj\Debug\DialogEx.exe
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\DialogEx\DialogEx\obj\Debug\DialogEx.pdb

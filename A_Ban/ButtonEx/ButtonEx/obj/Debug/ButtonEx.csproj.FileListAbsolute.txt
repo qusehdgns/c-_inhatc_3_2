@@ -1,0 +1,20 @@
+C:\Users\sooby\OneDrive - 인하공업전문대학\3학년 2학기\비주얼프로그래밍응용\1103\ButtonEx\ButtonEx\bin\Debug\ButtonEx.exe.config
+C:\Users\sooby\OneDrive - 인하공업전문대학\3학년 2학기\비주얼프로그래밍응용\1103\ButtonEx\ButtonEx\bin\Debug\ButtonEx.exe
+C:\Users\sooby\OneDrive - 인하공업전문대학\3학년 2학기\비주얼프로그래밍응용\1103\ButtonEx\ButtonEx\bin\Debug\ButtonEx.pdb
+C:\Users\sooby\OneDrive - 인하공업전문대학\3학년 2학기\비주얼프로그래밍응용\1103\ButtonEx\ButtonEx\obj\Debug\ButtonEx.csprojAssemblyReference.cache
+C:\Users\sooby\OneDrive - 인하공업전문대학\3학년 2학기\비주얼프로그래밍응용\1103\ButtonEx\ButtonEx\obj\Debug\ButtonEx.Form1.resources
+C:\Users\sooby\OneDrive - 인하공업전문대학\3학년 2학기\비주얼프로그래밍응용\1103\ButtonEx\ButtonEx\obj\Debug\ButtonEx.Properties.Resources.resources
+C:\Users\sooby\OneDrive - 인하공업전문대학\3학년 2학기\비주얼프로그래밍응용\1103\ButtonEx\ButtonEx\obj\Debug\ButtonEx.csproj.GenerateResource.cache
+C:\Users\sooby\OneDrive - 인하공업전문대학\3학년 2학기\비주얼프로그래밍응용\1103\ButtonEx\ButtonEx\obj\Debug\ButtonEx.csproj.CoreCompileInputs.cache
+C:\Users\sooby\OneDrive - 인하공업전문대학\3학년 2학기\비주얼프로그래밍응용\1103\ButtonEx\ButtonEx\obj\Debug\ButtonEx.exe
+C:\Users\sooby\OneDrive - 인하공업전문대학\3학년 2학기\비주얼프로그래밍응용\1103\ButtonEx\ButtonEx\obj\Debug\ButtonEx.pdb
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\ButtonEx\ButtonEx\bin\Debug\ButtonEx.exe.config
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\ButtonEx\ButtonEx\bin\Debug\ButtonEx.exe
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\ButtonEx\ButtonEx\bin\Debug\ButtonEx.pdb
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\ButtonEx\ButtonEx\obj\Debug\ButtonEx.csprojAssemblyReference.cache
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\ButtonEx\ButtonEx\obj\Debug\ButtonEx.Form1.resources
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\ButtonEx\ButtonEx\obj\Debug\ButtonEx.Properties.Resources.resources
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\ButtonEx\ButtonEx\obj\Debug\ButtonEx.csproj.GenerateResource.cache
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\ButtonEx\ButtonEx\obj\Debug\ButtonEx.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\ButtonEx\ButtonEx\obj\Debug\ButtonEx.exe
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\ButtonEx\ButtonEx\obj\Debug\ButtonEx.pdb

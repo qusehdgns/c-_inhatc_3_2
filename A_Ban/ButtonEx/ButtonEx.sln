@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonEx", "ButtonEx\ButtonEx.csproj", "{FB04EA90-29E8-4AEA-B0F1-9916F062DAAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB04EA90-29E8-4AEA-B0F1-9916F062DAAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB04EA90-29E8-4AEA-B0F1-9916F062DAAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB04EA90-29E8-4AEA-B0F1-9916F062DAAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB04EA90-29E8-4AEA-B0F1-9916F062DAAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EB291BB-BA6F-4568-9D11-93CBAF2435E7}
+	EndGlobalSection
+EndGlobal
