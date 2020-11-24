@@ -21,7 +21,32 @@ namespace Editor
         string filepath = "";
         string copyfield = "";
 
-        private void button1_Click(object sender, EventArgs e)
+        private void SaveFile()
+        {
+            StreamWriter sw;
+            sw = File.CreateText(filepath);
+
+            sw.WriteLine(textBox1.Text);
+            sw.Close();
+
+            textBox1.Text = "";
+
+            filepath = "";
+
+            Form2 f = new Form2();
+
+            f.Show();
+
+            textBox1.Font = DefaultFont;
+        }
+
+        private void 새파일NToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form1 form = new Form1();
+            form.Show();
+        }
+
+        private void 열기OToolStripMenuItem_Click(object sender, EventArgs e)
         {
             openFileDialog1.Filter = "텍스트 파일 (*.txt)|*.txt|모든 파일 (*.*)|*.*";
 
@@ -38,7 +63,7 @@ namespace Editor
             }
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void 저장SToolStripMenuItem_Click(object sender, EventArgs e)
         {
             saveFileDialog1.Filter = "텍스트 파일 (*.txt)|*.txt";
 
@@ -60,7 +85,7 @@ namespace Editor
             }
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void 다른이름저장ToolStripMenuItem_Click(object sender, EventArgs e)
         {
             if (saveFileDialog1.ShowDialog() == DialogResult.OK)
             {
@@ -70,42 +95,39 @@ namespace Editor
             }
         }
 
-        private void SaveFile()
+        private void 폰트변경ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            StreamWriter sw;
-            sw = File.CreateText(filepath);
-
-            sw.WriteLine(textBox1.Text);
-            sw.Close();
-
-            textBox1.Text = "";
-
-            filepath = "";
-
-            Form2 f = new Form2();
-
-            f.Show();
-
-            textBox1.Font = DefaultFont;
-        }
-
-        private void button4_Click(object sender, EventArgs e)
-        {
-            if(fontDialog1.ShowDialog() == DialogResult.OK)
+            if (fontDialog1.ShowDialog() == DialogResult.OK)
             {
                 textBox1.Font = fontDialog1.Font;
                 textBox1.ForeColor = fontDialog1.Color;
             }
         }
 
-        private void button5_Click(object sender, EventArgs e)
+        private void 지우기EToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "";
+        }
+
+        private void 종료XToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void 복사CToolStripMenuItem_Click(object sender, EventArgs e)
         {
             copyfield = textBox1.Text;
         }
 
-        private void button6_Click(object sender, EventArgs e)
+        private void 붙여넣기VToolStripMenuItem_Click(object sender, EventArgs e)
         {
             textBox1.Text = textBox1.Text + "\r\n" + copyfield;
+        }
+
+        private void 잘라내기TToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            copyfield = textBox1.Text;
+            textBox1.Text = "";
         }
     }
 }

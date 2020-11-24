@@ -1,0 +1,10 @@
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\HitTest\HitTest\bin\Debug\HitTest.exe.config
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\HitTest\HitTest\bin\Debug\HitTest.exe
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\HitTest\HitTest\bin\Debug\HitTest.pdb
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\HitTest\HitTest\obj\Debug\HitTest.csprojAssemblyReference.cache
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\HitTest\HitTest\obj\Debug\HitTest.Form1.resources
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\HitTest\HitTest\obj\Debug\HitTest.Properties.Resources.resources
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\HitTest\HitTest\obj\Debug\HitTest.csproj.GenerateResource.cache
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\HitTest\HitTest\obj\Debug\HitTest.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\HitTest\HitTest\obj\Debug\HitTest.exe
+C:\Users\quseh\Desktop\workspace\C#\A_Ban\HitTest\HitTest\obj\Debug\HitTest.pdb
