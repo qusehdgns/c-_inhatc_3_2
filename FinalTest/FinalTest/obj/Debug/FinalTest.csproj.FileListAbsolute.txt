@@ -1,0 +1,12 @@
+C:\Users\quseh\Desktop\workspace\C#\FinalTest\FinalTest\bin\Debug\FinalTest.exe
+C:\Users\quseh\Desktop\workspace\C#\FinalTest\FinalTest\bin\Debug\FinalTest.exe.config
+C:\Users\quseh\Desktop\workspace\C#\FinalTest\FinalTest\obj\Debug\FinalTest.csprojAssemblyReference.cache
+C:\Users\quseh\Desktop\workspace\C#\FinalTest\FinalTest\obj\Debug\FinalTest.Form1.resources
+C:\Users\quseh\Desktop\workspace\C#\FinalTest\FinalTest\obj\Debug\FinalTest.Form2.resources
+C:\Users\quseh\Desktop\workspace\C#\FinalTest\FinalTest\obj\Debug\FinalTest.Properties.Resources.resources
+C:\Users\quseh\Desktop\workspace\C#\FinalTest\FinalTest\obj\Debug\FinalTest.csproj.GenerateResource.cache
+C:\Users\quseh\Desktop\workspace\C#\FinalTest\FinalTest\obj\Debug\FinalTest.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\FinalTest\FinalTest\obj\Debug\FinalTest.exe
+C:\Users\quseh\Desktop\workspace\C#\FinalTest\FinalTest\obj\Debug\FinalTest.pdb
+C:\Users\quseh\Desktop\workspace\C#\FinalTest\FinalTest\bin\Debug\FinalTest.pdb
+C:\Users\quseh\Desktop\workspace\C#\FinalTest\FinalTest\obj\Debug\FinalTest.Form3.resources
