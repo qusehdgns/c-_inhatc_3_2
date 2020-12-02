@@ -1,0 +1,10 @@
+C:\Users\quseh\Desktop\workspace\C#\Chapter11\UpDownEx\UpDownEx\bin\Debug\UpDownEx.exe.config
+C:\Users\quseh\Desktop\workspace\C#\Chapter11\UpDownEx\UpDownEx\bin\Debug\UpDownEx.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter11\UpDownEx\UpDownEx\bin\Debug\UpDownEx.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter11\UpDownEx\UpDownEx\obj\Debug\UpDownEx.csprojAssemblyReference.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter11\UpDownEx\UpDownEx\obj\Debug\UpDownEx.Form1.resources
+C:\Users\quseh\Desktop\workspace\C#\Chapter11\UpDownEx\UpDownEx\obj\Debug\UpDownEx.Properties.Resources.resources
+C:\Users\quseh\Desktop\workspace\C#\Chapter11\UpDownEx\UpDownEx\obj\Debug\UpDownEx.csproj.GenerateResource.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter11\UpDownEx\UpDownEx\obj\Debug\UpDownEx.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter11\UpDownEx\UpDownEx\obj\Debug\UpDownEx.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter11\UpDownEx\UpDownEx\obj\Debug\UpDownEx.pdb

@@ -1,0 +1,9 @@
+C:\Users\quseh\Desktop\workspace\C#\Chapter11\ProgressBarEx\ProgressBarEx\bin\Debug\ProgressBarEx.exe.config
+C:\Users\quseh\Desktop\workspace\C#\Chapter11\ProgressBarEx\ProgressBarEx\bin\Debug\ProgressBarEx.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter11\ProgressBarEx\ProgressBarEx\bin\Debug\ProgressBarEx.pdb
+C:\Users\quseh\Desktop\workspace\C#\Chapter11\ProgressBarEx\ProgressBarEx\obj\Debug\ProgressBarEx.Form1.resources
+C:\Users\quseh\Desktop\workspace\C#\Chapter11\ProgressBarEx\ProgressBarEx\obj\Debug\ProgressBarEx.Properties.Resources.resources
+C:\Users\quseh\Desktop\workspace\C#\Chapter11\ProgressBarEx\ProgressBarEx\obj\Debug\ProgressBarEx.csproj.GenerateResource.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter11\ProgressBarEx\ProgressBarEx\obj\Debug\ProgressBarEx.csproj.CoreCompileInputs.cache
+C:\Users\quseh\Desktop\workspace\C#\Chapter11\ProgressBarEx\ProgressBarEx\obj\Debug\ProgressBarEx.exe
+C:\Users\quseh\Desktop\workspace\C#\Chapter11\ProgressBarEx\ProgressBarEx\obj\Debug\ProgressBarEx.pdb
