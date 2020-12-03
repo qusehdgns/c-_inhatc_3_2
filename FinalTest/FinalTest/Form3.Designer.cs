@@ -118,7 +118,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Form3";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form3";
+            this.Text = "Storage";
             this.ResumeLayout(false);
             this.PerformLayout();
 
